@@ -27,7 +27,7 @@
     "eject": "react-scripts eject",
     "start-sass": "sass --watch ./src/sass/:./src/assets/css",
     "predeploy": "npm run build",
-    "deploy": "npm run deploy"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
