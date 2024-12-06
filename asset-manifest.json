@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Charlzk-Portfolio-Template-1/static/css/main.ab3a62c7.css",
+    "main.js": "/Charlzk-Portfolio-Template-1/static/js/main.7a1d8c5d.js",
+    "static/js/453.46fd67e2.chunk.js": "/Charlzk-Portfolio-Template-1/static/js/453.46fd67e2.chunk.js",
+    "static/media/jessica.jpg": "/Charlzk-Portfolio-Template-1/static/media/jessica.b98823d944bd9e533643.jpg",
+    "static/media/sarah.jpg": "/Charlzk-Portfolio-Template-1/static/media/sarah.3941d128f8544bb14e70.jpg",
+    "static/media/MobileAppImage.png": "/Charlzk-Portfolio-Template-1/static/media/MobileAppImage.d6904f5efa08a8fc9ee5.png",
+    "static/media/me.jpg": "/Charlzk-Portfolio-Template-1/static/media/me.0063d5a2058a3cd6fe61.jpg",
+    "static/media/alex.jpg": "/Charlzk-Portfolio-Template-1/static/media/alex.6a7065a06476a6d4507b.jpg",
+    "static/media/EducationalPlatformImage.png": "/Charlzk-Portfolio-Template-1/static/media/EducationalPlatformImage.cf3924ef2cdd6c82e775.png",
+    "static/media/eCommerceImage.webp": "/Charlzk-Portfolio-Template-1/static/media/eCommerceImage.c22d3c5cd05c14679223.webp",
+    "static/media/WireframingImage.png": "/Charlzk-Portfolio-Template-1/static/media/WireframingImage.13dc82431c771dd6f5c3.png",
+    "static/media/UXDesignImage.png": "/Charlzk-Portfolio-Template-1/static/media/UXDesignImage.2978eac08628f746c172.png",
+    "static/media/micheal.jpg": "/Charlzk-Portfolio-Template-1/static/media/micheal.50d88a62f4ceffd9bc7d.jpg",
+    "static/media/UIDesignImage.avif": "/Charlzk-Portfolio-Template-1/static/media/UIDesignImage.69227cf796e412675a0a.avif",
+    "static/media/carter.jpg": "/Charlzk-Portfolio-Template-1/static/media/carter.a9cd3035a575c6d78c73.jpg",
+    "index.html": "/Charlzk-Portfolio-Template-1/index.html",
+    "main.ab3a62c7.css.map": "/Charlzk-Portfolio-Template-1/static/css/main.ab3a62c7.css.map",
+    "main.7a1d8c5d.js.map": "/Charlzk-Portfolio-Template-1/static/js/main.7a1d8c5d.js.map",
+    "453.46fd67e2.chunk.js.map": "/Charlzk-Portfolio-Template-1/static/js/453.46fd67e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab3a62c7.css",
+    "static/js/main.7a1d8c5d.js"
+  ]
+}
